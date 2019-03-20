@@ -1,0 +1,12 @@
+.box{
+    display: inline-block;
+    width: 450px;
+    height: 550px;
+    background: rgba(0, 0, 0, 0.4) fixed;
+    padding: 40px;
+    text-align: center;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    }
+
+    
